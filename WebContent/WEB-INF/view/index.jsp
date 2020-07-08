@@ -95,7 +95,7 @@ pageEncoding="ISO-8859-1"%>
                 <div class="card-body">
                     <h5 class="card-title">Instalaciones</h5>
                     <p class="card-text">Conoce nuestras instalaciones.</p>
-                    <a href="/ihealth_v2/servletInstalaciones" class="btn btn-info">Consultar!</a>
+                    <a href="ir_dir_instalaciones" class="btn btn-info">Consultar!</a>
                 </div>
           </div>
         </div>
