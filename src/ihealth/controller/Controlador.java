@@ -32,4 +32,11 @@ public class Controlador {
 		
 		return "dir_instalaciones";
 	}
+	
+	
+	@RequestMapping("/ir_dir_medicos")
+	public String ir_dir_medicos(){
+		
+		return "dir_medicos";
+	}
 }
